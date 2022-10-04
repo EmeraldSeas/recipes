@@ -1,0 +1,1 @@
+This is a simple recipes web page made entirely in HTML. Meant to demonstrate basic HTML competency.
